@@ -1,0 +1,7 @@
+/*Leaflet i klassen css*/
+
+#kort { 
+    height: 180px; 
+    width: 70%;
+    border: 2px solid palevioletred;
+}
