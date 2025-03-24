@@ -1,0 +1,14 @@
+/*Leaflet i klassen css*/
+
+* {
+    margin: auto;
+    text-align: center;
+}
+
+#map { 
+    height: 400px; 
+    width: 380px;
+    /*border-radius giver kortet runde hjørner*/
+    border-radius: 30px;
+    border: 2px solid rgb(216, 112, 147);
+}
